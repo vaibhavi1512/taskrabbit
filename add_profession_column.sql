@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD COLUMN `profession` VARCHAR(100) DEFAULT NULL AFTER `user_type`; 
